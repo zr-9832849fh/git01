@@ -1,0 +1,7 @@
+## ??? ?????
+# 总配置文件
+
+# 让prod这个配置（生产）文件生效
+spring:
+  profiles:
+    active: prod
